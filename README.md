@@ -2,7 +2,8 @@
 
 https://docs.google.com/presentation/d/1RHgPsIsRDG1OrGDpKwcVDlB-tgl4w03nHHt2Et5mqHk/edit#slide=id.g750327c0e4_0_125
 
-
+---
+경북대학교 2022 1학기 경영학부 개설 데이터베이스 입문 과제 - 팀프로젝트
 
 ![슬라이드1](https://github.com/swimmin99/DB_elderPopulation/assets/109887066/76f509cc-138b-42be-be17-0ca1e0491337)
 ![슬라이드2](https://github.com/swimmin99/DB_elderPopulation/assets/109887066/e9eee0fc-835f-472a-bce5-7bfd5a4a9368)
